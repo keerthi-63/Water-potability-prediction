@@ -21,15 +21,15 @@ The dataset including the parameters was taken from kaggle and imported into pyt
 
 DATA PREPROSESSING
 
-Handling Missing Data
+1.Handling Missing Data
 
 Considering the existence of missing data values, the median imputation has been applied to the approach.
 
-Outlier Analysis
+2.Outlier Analysis
 
 The outliers have been identified and have been capped to their respective maximum and minimum bounds with the IQR implementation.
 
-Exploratory Data Analysis
+3.Exploratory Data Analysis
 
 The data has been thoroughly analysed and multiple graphs have been visualized in association with the parameters considered. 
 
